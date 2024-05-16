@@ -56,12 +56,12 @@ locals {
           enabled = var.enable_service_monitor
         }
       }
-      # oidc = {
-      #   enabled       = false
-      #   url           = "${var.oidc.issuer_url}/.well-known/openid-configuration"
-      #   client_id     = "${var.oidc.client_id}"
-      #   client_secret = "${var.oidc.client_secret}"
-      # }
+      oidc = {
+        enabled       = false
+        url           = "${var.oidc.issuer_url}/.well-known/openid-configuration"
+        client_id     = "${var.oidc.client_id}"
+        client_secret = "${var.oidc.client_secret}"
+      }
       ingress = {
         enabled = true
         annotations = {
