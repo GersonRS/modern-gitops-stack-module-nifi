@@ -1,6 +1,6 @@
 ---
-name: "minio"
-title: "MinIO Module"
+name: "nifi"
+title: "Nifi Module"
 version: true
 start_page: README.adoc
 nav:
