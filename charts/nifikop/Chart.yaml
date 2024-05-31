@@ -1,7 +1,7 @@
 apiVersion: v2
 dependencies:
-  - name: nifikop
-    repository: oci://ghcr.io/konpyutaika/helm-charts
-    version: "1.7.0"
+- name: nifikop
+  repository: oci://ghcr.io/konpyutaika/helm-charts
+  version: 1.9.0
 name: nifikop
 version: "0"
