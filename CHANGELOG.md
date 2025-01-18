@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.5.0](https://github.com/GersonRS/modern-gitops-stack-module-nifi/compare/v1.4.0...v1.5.0) (2025-01-18)
+
+
+### 🚀 New Features
+
+* **chart:** minor update of dependencies on nifikop chart ([7f6551b](https://github.com/GersonRS/modern-gitops-stack-module-nifi/commit/7f6551b2e31cc03c1ce01aaa4ff2d87936c9f81f))
+
+
+### 📚 Documentation
+
+* **terraform-docs:** generate docs and write to README.adoc ([bb909bf](https://github.com/GersonRS/modern-gitops-stack-module-nifi/commit/bb909bfd4f2478f97ff4b6e4ad46e595fb0427d2))
+
 ## [1.4.0](https://github.com/GersonRS/modern-gitops-stack-module-nifi/compare/v1.3.0...v1.4.0) (2024-05-16)
 
 
